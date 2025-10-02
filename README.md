@@ -49,7 +49,7 @@ The dashboard uses **Excel PivotTables, Slicers, and Charts** to create a profes
 ---
 
 ## 📂 Project Structure
-
+```
 📦 Emp_Dashboard
 ┣ 📂 data
 ┃ ┣ 📂 raw → Raw employee data
@@ -61,7 +61,7 @@ The dashboard uses **Excel PivotTables, Slicers, and Charts** to create a profes
 ┃ ┗ 📂 screenshots → Project screenshots
 ┣ 📂 img → Icons & illustrations
 ┗ README.md
-
+```
 
 
 ---
