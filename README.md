@@ -1,22 +1,74 @@
-# Emp_Dashboard
+# 📊 Employee Analytics Dashboard
 
-**Project:** Employee Data — cleaning → analysis → dashboard  
-**Tools:** Microsoft Excel (Power Query / Pivot), Git, optional: Git LFS
+The **Employee Analytics Dashboard** is an interactive Excel-based solution designed to analyze and visualize employee data.  
+It provides HR and business teams with meaningful insights into workforce performance, demographics, attrition, and salary distribution.  
+The dashboard uses **Excel PivotTables, Slicers, and Charts** to create a professional, easy-to-use reporting system.
 
-## Folder structure
-- `data/raw` — Original raw datasets
-- `data/cleaned` — Cleaned / preprocessed datasets
-- `data/processed` — Aggregated files for visuals
-- `excel` — Final dashboard workbook and cleaning steps
-- `docs/screenshots` — Dashboard screenshots and notes
+---
 
-## Steps followed
-1. Collect raw data → place in `data/raw`.
-2. Clean data in Excel (Power Query) → save cleaned to `data/cleaned`.
-3. Create processed tables for charts → store in `data/processed`.
-4. Build dashboard in `excel/final_dashboard.xlsx`.
-5. Add screenshots & short report in `docs/`.
+## 🚀 Key Performance Indicators (KPIs)
 
-## Notes
-- Do not push sensitive personal data. If data contains PII, anonymize before pushing.
-- If files are >100MB, use Git LFS.
+- ✅ **Total Employee**  
+- ✅ **Total Salary**  
+- ✅ **Total Left Employee**  
+- ✅ **Active Employee**  
+- ✅ **Total City**  
+- ✅ **Attrition Rate %**  
+- ✅ **Employee Gender Ratio / Diversity %**  
+- ✅ **Average Salary**  
+
+---
+
+## 📈 Pivot Insights & Analysis
+
+1. Department-wise Salary  
+2. Employee by Age Group  
+3. Employee Count by Business Unit  
+4. Employee by Country  
+5. Average Bonus % by Department  
+6. Hires per Year  
+7. Attrition (Employees Left) per Year  
+8. Bonus % Distribution  
+9. Tenure Distribution  
+
+---
+
+## 🛠️ Tech / Tools Used
+
+- **Microsoft Excel** → PivotTables, Slicers, Charts, Conditional Formatting  
+- **GitHub** → Version control and project hosting  
+
+---
+
+## 📸 Screenshots
+
+<img width="1920" height="1080" alt="Screenshot 1" src="https://github.com/user-attachments/assets/31b59c1a-be76-46c4-a173-f78f042e154a" />
+
+<img width="1650" height="875" alt="Screenshot 2" src="https://github.com/user-attachments/assets/a1d67dcd-4b85-4b2a-a53c-1cc877469b93" />
+
+---
+
+## 📂 Project Structure
+
+📦 Emp_Dashboard
+┣ 📂 data
+┃ ┣ 📂 raw → Raw employee data
+┃ ┣ 📂 cleaned → Cleaned dataset
+┃ ┗ 📂 processed → Processed dataset
+┣ 📂 excel
+┃ ┗ 📂 Dashboard
+┣ 📂 docs
+┃ ┗ 📂 screenshots → Project screenshots
+┣ 📂 img → Icons & illustrations
+┗ README.md
+
+
+
+---
+
+## 👨‍💻 Author
+
+- **Prafull Wahatule**  
+- GitHub: [prafullwahatule](https://github.com/prafullwahatule)  
+
+---
