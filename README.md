@@ -46,6 +46,9 @@ The dashboard uses **Excel PivotTables, Slicers, and Charts** to create a profes
 
 <img width="1650" height="875" alt="Screenshot 2" src="https://github.com/user-attachments/assets/a1d67dcd-4b85-4b2a-a53c-1cc877469b93" />
 
+<img width="1622" height="873" alt="Screenshot 2025-10-05 232230" src="https://github.com/user-attachments/assets/42ee97ef-54d4-40d6-8162-192788de6bd4" />
+
+
 ---
 
 ## 📂 Project Structure
